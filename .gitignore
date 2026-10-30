@@ -1,0 +1,14 @@
+# Credenciais — nunca versionar
+.env
+.streamlit/secrets.toml
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Gradio
+.gradio/
+flagged/
+databasePassword.txt 
